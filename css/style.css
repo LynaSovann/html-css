@@ -843,5 +843,13 @@ a:focus {
   color: inherit;
 }
 
+.more-container {
+  margin-top: 50px;
+}
+
+.more-container h1 {
+  text-align: center;
+}
+
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
